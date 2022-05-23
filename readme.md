@@ -1,6 +1,6 @@
-# Vanilla Node REST API
+#Node API
 
-> Full CRUD REST API using Node.js with no framework
+> Full CRUD REST API using Node.js 
 
 This is for learning/experimental purposes. In most cases, you would use something like Express in a production project
 
